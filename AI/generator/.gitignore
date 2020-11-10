@@ -1,0 +1,7 @@
+dante
+*.o
+*~
+tmp*
+perf_gen.sh
+old_gen
+gen
